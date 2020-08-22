@@ -1,2 +1,1 @@
-# EduSocial
-literally anything
+# QuickSource

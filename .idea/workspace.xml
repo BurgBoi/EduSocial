@@ -24,24 +24,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="823410e2-a160-4086-835d-c247c4ce55c5" name="Default Changelist" comment="did some stuff">
-      <change afterPath="$PROJECT_DIR$/.floo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.flooignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/quicksource/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/quicksource/NetworkConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="823410e2-a160-4086-835d-c247c4ce55c5" name="Default Changelist" comment="added fake server - client connections">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/quicksource/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/quicksource/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/CreateClassFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/CreateClassFormController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/CreateResourceFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/CreateResourceFormController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/JoinClassFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/JoinClassFormController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/LoginFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/LoginFormController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/StudentMenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/StudentMenuController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/TeacherMenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/TeacherMenuController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/loginform.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/loginform.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/studentMenu.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/studentMenu.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +164,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598182646589</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added fake server - client connections">
+      <created>1598198021031</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598198021031</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added fake server - client connections">
+      <created>1598198087643</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598198087643</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,7 +195,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="did some stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="did some stuff" />
+    <MESSAGE value="added fake server - client connections" />
+    <option name="LAST_COMMIT_MESSAGE" value="added fake server - client connections" />
   </component>
   <component name="WindowStateProjectService">
     <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598175854506">

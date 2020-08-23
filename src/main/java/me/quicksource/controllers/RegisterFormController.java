@@ -12,24 +12,24 @@ import java.util.ResourceBundle;
 
 public class RegisterFormController implements Initializable {
 
-	@FXML
-	private TextField username;
+    @FXML
+    private TextField username;
 
-	@FXML
-	private PasswordField password;
+    @FXML
+    private PasswordField password;
 
-	@FXML
-	private ToggleButton student;
+    @FXML
+    private ToggleButton student;
 
-	@FXML
-	private ToggleButton teacher;
+    @FXML
+    private ToggleButton teacher;
 
-	public void onMouseClickedRegister(MouseEvent mouseEvent) {
-		
-	}
+    public void onMouseClickedRegister(MouseEvent mouseEvent) {
 
-	@Override
-	public void initialize(URL location, ResourceBundle resources) {
+    }
 
-	}
+    @Override
+    public void initialize(URL location, ResourceBundle resources) {
+
+    }
 }

@@ -17,7 +17,8 @@
                                     AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0"
                                     AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="40.0">
                             <content>
-                                <VBox prefHeight="1011.0" prefWidth="302.0"/>
+                                <VBox fx:id="classes" prefHeight="1011.0" prefWidth="302.0"
+                                      stylesheets="@stylesheets/ClassButtonStyle.css"/>
                             </content>
                         </ScrollPane>
                         <AnchorPane layoutX="-28.0" layoutY="-1.0" maxHeight="-Infinity" maxWidth="-Infinity"
@@ -48,16 +49,17 @@
                                                     AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0"
                                                     AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
                                             <content>
-                                                <VBox prefHeight="1054.0" prefWidth="325.0"/>
+                                                <VBox fx:id="resources" prefHeight="1054.0" prefWidth="325.0"
+                                                      stylesheets="@stylesheets/ClassButtonStyle.css"/>
                                             </content>
                                         </ScrollPane>
                                     </children>
                                 </AnchorPane>
                                 <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
                                     <children>
-                                        <WebView fx:id="webViewer" layoutX="14.0" prefHeight="200.0" prefWidth="200.0"
-                                                 AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="14.0"
-                                                 AnchorPane.rightAnchor="-14.0" AnchorPane.topAnchor="0.0"/>
+                                        <WebView prefHeight="200.0" prefWidth="200.0" AnchorPane.bottomAnchor="0.0"
+                                                 AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0"
+                                                 AnchorPane.topAnchor="0.0"/>
                                     </children>
                                 </AnchorPane>
                             </items>

@@ -8,6 +8,7 @@ import javafx.scene.Scene;
 import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
 import javafx.scene.input.MouseEvent;
+import me.quicksource.GuiUtils;
 import me.quicksource.QuickSourceApplication;
 
 import java.net.URL;
@@ -21,7 +22,8 @@ public class LoginFormController implements Initializable {
 	@FXML
 	private PasswordField password;
 
-	public void onMouseClickedLogin(MouseEvent mouseEvent) {
+	public void onMouseClickedLogin(MouseEvent mouseEvent) throws Exception {
+		GuiUtils.changeScene(QuickSourceApplication.stage, "teacherMenu.fxml");
 	}
 
 	public void onMouseClickedRegister(MouseEvent mouseEvent) throws Exception {

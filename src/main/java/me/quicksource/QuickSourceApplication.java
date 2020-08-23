@@ -12,10 +12,10 @@ public class QuickSourceApplication extends Application {
 
 	@Override
 	public void start(Stage primaryStage) throws Exception {
-		Parent loginformRoot = FXMLLoader.load(getClass().getClassLoader().getResource("loginform.fxml"));
-		Scene loginform = new Scene(loginformRoot);
+		Parent teacherMenuRoot = FXMLLoader.load(getClass().getClassLoader().getResource("teacherMenu.fxml"));
+		Scene teacherMenu = new Scene(teacherMenuRoot);
 		primaryStage.setTitle("QuickSource Login");
-		primaryStage.setScene(loginform);
+		primaryStage.setScene(teacherMenu);
 		primaryStage.show();
 		stage = primaryStage;
 	}

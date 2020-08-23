@@ -24,8 +24,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="823410e2-a160-4086-835d-c247c4ce55c5" name="Default Changelist" comment="added fake server - client connections">
+    <list default="true" id="823410e2-a160-4086-835d-c247c4ce55c5" name="Default Changelist" comment="barbones app">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/quicksource/QuickSourceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/quicksource/QuickSourceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/CreateClassFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/CreateClassFormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/CreateResourceFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/CreateResourceFormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/TeacherMenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/TeacherMenuController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +59,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gUU8QyoyRgMp1Tq6ufshswlh7n" />
@@ -196,7 +205,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="did some stuff" />
     <MESSAGE value="added fake server - client connections" />
-    <option name="LAST_COMMIT_MESSAGE" value="added fake server - client connections" />
+    <MESSAGE value="barbones app" />
+    <option name="LAST_COMMIT_MESSAGE" value="barbones app" />
   </component>
   <component name="WindowStateProjectService">
     <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598175854506">
@@ -219,22 +229,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="986" y="441" key="FileChooserDialogImpl/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598171782575" />
-    <state width="2517" height="193" key="GridCell.Tab.0.bottom" timestamp="1598183814281">
+    <state width="2517" height="193" key="GridCell.Tab.0.bottom" timestamp="1598199343718">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="193" key="GridCell.Tab.0.bottom/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598183814281" />
-    <state width="2517" height="193" key="GridCell.Tab.0.center" timestamp="1598183814281">
+    <state width="2517" height="193" key="GridCell.Tab.0.bottom/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598199343718" />
+    <state width="2517" height="193" key="GridCell.Tab.0.center" timestamp="1598199343718">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="193" key="GridCell.Tab.0.center/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598183814281" />
-    <state width="2517" height="193" key="GridCell.Tab.0.left" timestamp="1598183814280">
+    <state width="2517" height="193" key="GridCell.Tab.0.center/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598199343718" />
+    <state width="2517" height="193" key="GridCell.Tab.0.left" timestamp="1598199343718">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="193" key="GridCell.Tab.0.left/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598183814280" />
-    <state width="2517" height="193" key="GridCell.Tab.0.right" timestamp="1598183814281">
+    <state width="2517" height="193" key="GridCell.Tab.0.left/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598199343718" />
+    <state width="2517" height="193" key="GridCell.Tab.0.right" timestamp="1598199343718">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="193" key="GridCell.Tab.0.right/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598183814281" />
+    <state width="2517" height="193" key="GridCell.Tab.0.right/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598199343718" />
     <state x="760" y="274" key="SettingsEditor" timestamp="1598182883983">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

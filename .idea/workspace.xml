@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="QuickSource:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="823410e2-a160-4086-835d-c247c4ce55c5" name="Default Changelist" comment="did some stuff" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gUU8QyoyRgMp1Tq6ufshswlh7n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/stylesheets" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.49310344" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\david.DESKTOP-RIEO0EL.000\Desktop\QuickSource\src\main\resources\stylesheets" />
+      <recent name="C:\Users\david.DESKTOP-RIEO0EL.000\Desktop\QuickSource\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.quicksource.Main" />
+      <module name="QuickSource.main" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\david.DESKTOP-RIEO0EL.000\Desktop\JavaProjects\lib\javafx-sdk-14.0.2.1\lib&quot; --add-modules javafx.controls,javafx.fxml,javafx.web,javafx.graphics,javafx.media" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSource [fatJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="fatJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="QuickSource [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" value="--module-path &quot;C:\Users\david.DESKTOP-RIEO0EL.000\Desktop\JavaProjects\lib\javafx-sdk-14.0.2.1\lib&quot; --add-modules javafx.controls,javafx.fxml,javafx.web,javafx.graphics,javafx.media" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Gradle.QuickSource [fatJar]" />
+      <item itemvalue="Gradle.QuickSource [jar]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.QuickSource [jar]" />
+        <item itemvalue="Gradle.QuickSource [fatJar]" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="823410e2-a160-4086-835d-c247c4ce55c5" name="Default Changelist" comment="" />
+      <created>1598168504123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598168504123</updated>
+    </task>
+    <task id="LOCAL-00001" summary="did some stuff">
+      <created>1598179473047</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598179473047</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="did some stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="did some stuff" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598175854506">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598175854506" />
+    <state x="1010" y="490" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1598176712813">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="490" key="#com.intellij.ide.util.TreeClassChooserDialog/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598176712813" />
+    <state x="1077" y="570" key="DetectedRootsChooserDialog" timestamp="1598169960885">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1077" y="570" key="DetectedRootsChooserDialog/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598169960885" />
+    <state x="986" y="441" key="FileChooserDialogImpl" timestamp="1598171782575">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="986" y="441" key="FileChooserDialogImpl/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598171782575" />
+    <state width="2517" height="193" key="GridCell.Tab.0.bottom" timestamp="1598181973842">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="193" key="GridCell.Tab.0.bottom/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598181973842" />
+    <state width="2517" height="193" key="GridCell.Tab.0.center" timestamp="1598181973842">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="193" key="GridCell.Tab.0.center/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598181973842" />
+    <state width="2517" height="193" key="GridCell.Tab.0.left" timestamp="1598181973841">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="193" key="GridCell.Tab.0.left/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598181973841" />
+    <state width="2517" height="193" key="GridCell.Tab.0.right" timestamp="1598181973842">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="193" key="GridCell.Tab.0.right/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598181973842" />
+    <state x="760" y="274" key="SettingsEditor" timestamp="1598182454132">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="760" y="274" key="SettingsEditor/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598182454132" />
+    <state x="1089" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598181972346">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1089" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598181972346" />
+    <state x="862" y="310" key="new project wizard" timestamp="1598176693141">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="862" y="310" key="new project wizard/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598176693141" />
+  </component>
+</project>

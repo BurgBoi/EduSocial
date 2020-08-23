@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleButton?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<GridPane hgap="5.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="610.0" vgap="10.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="me.quicksource.controllers.RegisterFormController">
+    <columnConstraints>
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+    </columnConstraints>
+    <rowConstraints>
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+    </rowConstraints>
+    <children>
+        <Label alignment="CENTER_RIGHT" text="Username:" GridPane.halignment="RIGHT" GridPane.rowIndex="1">
+            <font>
+                <Font size="48.0" />
+            </font>
+        </Label>
+        <Label text="Password:" GridPane.halignment="RIGHT" GridPane.rowIndex="2">
+            <font>
+                <Font size="48.0" />
+            </font>
+        </Label>
+        <Button mnemonicParsing="false" onMouseClicked="#onMouseClickedRegister" scaleX="3.0" scaleY="3.0" text="Register" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="3">
+            <GridPane.margin>
+                <Insets bottom="10.0" />
+            </GridPane.margin>
+        </Button>
+        <TextField fx:id="username" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="50.0" prefWidth="295.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+        <PasswordField fx:id="password" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="50.0" prefWidth="295.0" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+        <Label prefWidth="149.0" scaleX="2.0" scaleY="2.0" text="Select an account type" GridPane.halignment="CENTER" GridPane.rowIndex="3" GridPane.valignment="TOP">
+            <padding>
+                <Insets bottom="10.0" left="14.0" />
+            </padding>
+        </Label>
+        <Label scaleZ="0.0" text="QuickSource" GridPane.halignment="CENTER">
+            <font>
+                <Font name="Arial" size="48.0" />
+            </font>
+        </Label>
+        <ToggleButton fx:id="student" mnemonicParsing="false" scaleX="2.0" scaleY="2.0" text="Student" GridPane.halignment="RIGHT" GridPane.rowIndex="3">
+         <GridPane.margin>
+            <Insets right="60.0" top="10.0" />
+         </GridPane.margin>
+         <toggleGroup>
+            <ToggleGroup fx:id="accountType" />
+         </toggleGroup>
+      </ToggleButton>
+        <ToggleButton fx:id="teacher" mnemonicParsing="false" scaleX="2.0" scaleY="2.0" text="Teacher" toggleGroup="$accountType" GridPane.halignment="LEFT" GridPane.rowIndex="3">
+         <GridPane.margin>
+            <Insets left="60.0" top="10.0" />
+         </GridPane.margin>
+      </ToggleButton>
+    </children>
+</GridPane>

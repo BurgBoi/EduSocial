@@ -24,7 +24,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="823410e2-a160-4086-835d-c247c4ce55c5" name="Default Changelist" comment="did some stuff" />
+    <list default="true" id="823410e2-a160-4086-835d-c247c4ce55c5" name="Default Changelist" comment="did some stuff">
+      <change afterPath="$PROJECT_DIR$/.floo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.flooignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/quicksource/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/quicksource/NetworkConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/quicksource/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/quicksource/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/CreateClassFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/CreateClassFormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/CreateResourceFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/CreateResourceFormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/JoinClassFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/JoinClassFormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/LoginFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/LoginFormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/StudentMenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/StudentMenuController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/TeacherMenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/quicksource/controllers/TeacherMenuController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/loginform.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/loginform.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/studentMenu.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/studentMenu.fxml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +63,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -61,8 +86,8 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/stylesheets" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.49310344" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
@@ -148,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598179473047</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="did some stuff">
+      <created>1598182646589</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598182646589</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +204,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598175854506" />
+    <state x="1085" y="406" key="#com.intellij.ide.util.MemberChooser" timestamp="1598187756070">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="406" key="#com.intellij.ide.util.MemberChooser/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598187756070" />
     <state x="1010" y="490" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1598176712813">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -184,26 +220,26 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="986" y="441" key="FileChooserDialogImpl/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598171782575" />
-    <state width="2517" height="193" key="GridCell.Tab.0.bottom" timestamp="1598181973842">
+    <state width="2517" height="193" key="GridCell.Tab.0.bottom" timestamp="1598183814281">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="193" key="GridCell.Tab.0.bottom/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598181973842" />
-    <state width="2517" height="193" key="GridCell.Tab.0.center" timestamp="1598181973842">
+    <state width="2517" height="193" key="GridCell.Tab.0.bottom/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598183814281" />
+    <state width="2517" height="193" key="GridCell.Tab.0.center" timestamp="1598183814281">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="193" key="GridCell.Tab.0.center/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598181973842" />
-    <state width="2517" height="193" key="GridCell.Tab.0.left" timestamp="1598181973841">
+    <state width="2517" height="193" key="GridCell.Tab.0.center/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598183814281" />
+    <state width="2517" height="193" key="GridCell.Tab.0.left" timestamp="1598183814280">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="193" key="GridCell.Tab.0.left/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598181973841" />
-    <state width="2517" height="193" key="GridCell.Tab.0.right" timestamp="1598181973842">
+    <state width="2517" height="193" key="GridCell.Tab.0.left/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598183814280" />
+    <state width="2517" height="193" key="GridCell.Tab.0.right" timestamp="1598183814281">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="193" key="GridCell.Tab.0.right/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598181973842" />
-    <state x="760" y="274" key="SettingsEditor" timestamp="1598182454132">
+    <state width="2517" height="193" key="GridCell.Tab.0.right/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598183814281" />
+    <state x="760" y="274" key="SettingsEditor" timestamp="1598182883983">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="760" y="274" key="SettingsEditor/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598182454132" />
+    <state x="760" y="274" key="SettingsEditor/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598182883983" />
     <state x="1089" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598181972346">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -212,5 +248,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="862" y="310" key="new project wizard/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598176693141" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1598187632218">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/2560.349.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1598187632218" />
   </component>
 </project>
